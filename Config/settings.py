@@ -92,3 +92,4 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # Configuración de archivos estáticos en local
 STATICFILES_DIRS = [BASE_DIR / "static"]
 
+#Se realiza el primer commit
